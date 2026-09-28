@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-sac-maximum-entropy-rl-evaluator-skill"
+version = "1.0.0"
+description = "Soft Actor-Critic (SAC) maximum entropy policy value and soft Bellman target evaluator"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
