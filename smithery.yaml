@@ -1,0 +1,6 @@
+name: genpark-sac-maximum-entropy-rl-evaluator-skill
+version: 1.0.0
+description: Soft Actor-Critic (SAC) maximum entropy policy value and soft Bellman target evaluator
+command: python
+args:
+  - mcp_server.py
