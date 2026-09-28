@@ -1,0 +1,20 @@
+{
+  "name": "genpark-sac-maximum-entropy-rl-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Soft Actor-Critic (SAC) maximum entropy policy value and soft Bellman target evaluator",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "sac",
+    "soft-actor-critic",
+    "maximum-entropy",
+    "soft-bellman",
+    "entropy-regularization",
+    "reinforcement-learning",
+    "python-standard-library",
+    "agent-skills",
+    "actor-critic",
+    "exploration"
+  ]
+}
